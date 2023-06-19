@@ -1,0 +1,43 @@
+{
+  "enquiry": [
+    {
+      "firstName": "godwin",
+      "lastName": "jackson",
+      "email": "godwinjack@gmail.com",
+      "mobile": "0905468464846",
+      "weight": "67",
+      "height": "8.4",
+      "bmi": 0.11337868480725623,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Sugar craving body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-04T07:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "john",
+      "lastName": "doe",
+      "email": "johndoe@gmail.com",
+      "mobile": "09089783423",
+      "weight": "78",
+      "height": "3.7",
+      "bmi": 0.21913805697589478,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-21T07:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
